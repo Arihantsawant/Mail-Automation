@@ -1,0 +1,6 @@
+{
+  "name": "GECA Placement Outreach Automation System",
+  "description": "An automated outreach, follow-up, and CRM platform with Google Sheets, Gmail, and Gemini AI integration for the Training & Placement Cell of Government College of Engineering Aurangabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
